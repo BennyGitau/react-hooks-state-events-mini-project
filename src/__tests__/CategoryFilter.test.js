@@ -11,6 +11,7 @@ test("displays a button for each category", () => {
   }
 });
 
+
 test("clicking the category button adds a class of 'selected' to the button", () => {
   render(<App />);
 
